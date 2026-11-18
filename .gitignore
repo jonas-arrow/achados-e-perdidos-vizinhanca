@@ -1,0 +1,17 @@
+# Android / Gradle
+*.apk
+*.ap_
+*.dex
+*.class
+build/
+.gradle/
+.idea/
+.kotlin/
+*.iml
+local.properties
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
